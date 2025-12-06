@@ -1,0 +1,4 @@
+C002,Mahindra Scorpio,2000.0,1,7 seats,Standard
+C001,Hyundai i10,800.0,0,AC,Economy
+C005,Volvo,5500.0,1,AC,Luxury
+C004,Toyota Etios,1000.0,1,AC,Economy
